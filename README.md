@@ -1,5 +1,21 @@
 # Pot4toes_Gener4tor
-a password generator
+A password generator
+
+## Introduction
+This is a simple password generator.
+It generates password by criterias which is selected by users.
+
+## How To Use
+Pressing the red button will pop out several windows which would ask the users how they want their passwords be generated.
+
+## Illustration
+![Screenshot 2023-02-27 at 7 47 00 PM](https://user-images.githubusercontent.com/123340192/221761565-10b7d589-196d-4274-97cb-f914af5399ce.png)
+
+## Deployment Page
+https://wallacethewonderer.github.io/Pot4toes_Gener4tor/
+
+## Technologies
+Javascript Functions, if conditional statement.
 
 ## User Story
 AS AN employee with access to sensitive data<br>
